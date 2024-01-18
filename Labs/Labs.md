@@ -1,0 +1,1 @@
+- [ ] Lab 1: Design a logical and physical model for a general blogging application (Slide 19)
