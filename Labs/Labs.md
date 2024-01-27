@@ -1,1 +1,4 @@
 - [ ] Lab 1: Design a logical and physical model for a general blogging application (Slide 19)
+- [ ] Lab 2: Design a MongoDB database for a general blogging application (Slide 37)
+- [ ] Lab 3: Design your own MySQL Database for a general blogging application (Slide 57)
+- [ ] Lab 4: Based off previous labs, incorporate redis into the system. 
