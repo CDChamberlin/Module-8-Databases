@@ -12,3 +12,18 @@ Intro (Slides 1-18)
 - Data Models
     - Logical Model
     - Physical model
+
+## Notes Jan 22
+MongoDB
+User Model
+ - first_name
+ - last_name
+ - fav_color
+ - user_name
+ - email
+ - password
+Post Model
+- title
+- description
+- image
+Comment Model
