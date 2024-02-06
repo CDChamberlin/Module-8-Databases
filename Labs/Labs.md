@@ -2,7 +2,7 @@
 
 - [x] [Lab 1](#lab-1): Design a logical and physical model for a general blogging application (Slide 19)
 - [x] [Lab 2](#lab-2-mongodb): Design a MongoDB database for a general blogging application (Slide 37)
-- [ ] Lab 3: Design your own MySQL Database for a general blogging application (Slide 57)
+- [x] Lab 3: Design your own MySQL Database for a general blogging application (Slide 57)
 - [ ] Lab 4: Based off previous labs, incorporate redis into the system. 
 
 ## Lab 1 
@@ -39,3 +39,10 @@
 ## Lab 2: MongoDB
 Created a MongoDB Database with three documents: Users, Posts, and Comments.
 [Document examples](/Labs/dataBase.json)
+
+## Lab 3: MySQL
+Created a MySQL database with three tables: Users, Posts, and Comments. 
+[Scripts used](/Labs/scripts.sql)
+
+## Lab 4: Redis
+Incorporating Redis would have Redis inbetween the client and the server. Client would send to Redis and Redis would write to the database. 

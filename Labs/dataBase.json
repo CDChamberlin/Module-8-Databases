@@ -12,7 +12,7 @@
         "description": "The first post with random text.",
         "image": null,
         "date": "_timestamp",
-        "poster": "_userID",
+        "author": "_userID",
         "comments": ["_commentID_1", "_commentID_2"]
     },
     "comments":{
